@@ -1,0 +1,1 @@
+const coletor = new Coletor();
